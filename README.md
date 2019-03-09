@@ -1,4 +1,4 @@
-# Tribut Page :1234:
+# Tribute Page :1234:
 
 This project is part of the FreeCodeCamp's Responsive Web Design Certification.
 It was built using only **CSS** and **HTML**.
