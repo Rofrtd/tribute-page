@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: Helvetica;
+  }
+  #main {
+    margin:30px auto;
+    padding:15px;
+    border:0px solid;
+    border-radius:5px;
+  }
+  #img-caption {
+    font-size: 70%;
+  }
+  #headline{
+    text-align: center;
+  }
+  #tribute-info{
+    max-width:550px;
+    margin:0 auto;
+    text-align:center;
+  }
+  img{
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: auto;
+  }
+  #tribute-link{
+    color: white;
+  }
+  #tribute-link:hover{
+    color: gray;
+  }
+  #github-logo{
+    width:2.5%;
+  }
+  #github-logo:hover{
+    width: 3%;
+  }
+  #footer{
+    font-size: 80%;
+  }
+  
